@@ -1,5 +1,3 @@
-![Build Status](https://travis-ci.org/MuYunyun/reactSPA.svg?branch=master) ![LICENSE MIT](https://img.shields.io/npm/l/express.svg)
-
 ### Usage
 
 ```
