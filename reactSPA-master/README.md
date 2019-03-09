@@ -1,3 +1,19 @@
+![Build Status](https://travis-ci.org/MuYunyun/reactSPA.svg?branch=master) ![LICENSE MIT](https://img.shields.io/npm/l/express.svg)
+
+该项目是对 React 技术栈以及前端工程化的相关实践。
+
+> 愿景：沉淀出一套针对中台系统的开发相对完善的使用方案。
+
+[效果展示](https://muyunyun.github.io/reactSPA)，建议本地打开。
+
+- 部分模块展示：
+
+![](http://files.cnblogs.com/files/MuYunyun/reactSPA.gif)
+
+- redux 实现一个 todoList:
+
+![](http://files.cnblogs.com/files/MuYunyun/todoList.gif)
+
 ### Usage
 
 ```
