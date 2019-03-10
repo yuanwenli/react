@@ -4,9 +4,9 @@ language: node_js
 node_js:
   - "8"
 install:
-  - npm install
+  - yarn add
 script:
-  - npm run build
+  - yarn run build
 branches:
   only:
     - master
