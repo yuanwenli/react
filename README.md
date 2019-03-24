@@ -8,5 +8,5 @@ $ npm install
 $ npm start   
 $ yarn install
 $ yarn start    
-# visit http://localhost:8000
+__# visit http://localhost:8000
 ```
