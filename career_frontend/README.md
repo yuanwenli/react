@@ -18,17 +18,4 @@ $ yarn start
 
 
 
-```
-grenzukkk
-grenzukkk
-ggggg
-hhhh
-```
-```
-grenzukkk
-grenzukkk
-ggggg
-
-hhhh
-```
 
