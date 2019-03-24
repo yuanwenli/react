@@ -16,27 +16,6 @@ $  yarn omstall
 $ yarn start
 ```
 
-```bash
-$  yarn omstall
-$ yarn start
-```
 
-```bash
-$  yarn omstall
-$ yarn start
-```
 
-```bash
-$  yarn omstall
-$ yarn start
-```
 
-```bash
-$  yarn omstall
-$ yarn start
-```
-
-```bash
-$  yarn omstall
-$ yarn start
-```
