@@ -4,6 +4,7 @@ import { Route, Redirect, Switch } from "react-router";
 import Container from "container";
 import Login from "pages/login";
 import createHistory from "history/createBrowserHistory";
+import "lib-flexible"
 
 const history = createHistory();
 const { location } = history;

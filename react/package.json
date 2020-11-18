@@ -73,6 +73,7 @@
     "json-loader": "0.5.4",
     "postcss-flexbugs-fixes": "3.2.0",
     "postcss-loader": "2.0.6",
+    "px2rem-loader": "^0.1.9",
     "react-dev-utils": "^5.0.0",
     "react-error-overlay": "^1.0.10",
     "redux-devtools": "^3.4.1",

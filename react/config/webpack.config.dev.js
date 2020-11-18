@@ -7,7 +7,9 @@ const ModuleScopePlugin = require('react-dev-utils/ModuleScopePlugin')
 const AnalyzeWebpackPlugin = require('analyze-webpack-plugin').default
 const getClientEnvironment = require('./env')
 const paths = require('./paths')
-
+const px2rem = require('postcss-px2rem-exclude');
+//加入
+ px2rem({remUnit:75,exclude: /node_modules/i})
 const publicPath = '/'
 
 const publicUrl = ''
@@ -104,6 +106,7 @@ module.exports = {
                       ],
                       flexbox: 'no-2009',
                     }),
+                    px2rem({remUnit:75,exclude:/node_modules/i})
                   ],
                 },
               },
